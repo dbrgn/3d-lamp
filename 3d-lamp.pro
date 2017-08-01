@@ -1,4 +1,4 @@
-update=Tue 01 Aug 2017 12:00:23 AM CEST
+update=mar 01 Aŭg 2017 16:12:15 +0200
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=lib/lpc1110fd20
+LibName30=/home/danilo/Projects/3d-lamp/lib/usb
+LibName31=/home/danilo/Projects/3d-lamp/lib/battery_cell
+LibName32=/home/danilo/Projects/3d-lamp/lib/attiny85
