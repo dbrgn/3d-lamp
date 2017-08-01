@@ -1,0 +1,326 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:lpc1110fd20
+LIBS:3d-lamp-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED_Small D?
+U 1 1 597FA1D8
+P 6600 1550
+F 0 "D?" H 6550 1675 50  0000 L CNN
+F 1 "LED_Small" V 6425 1450 50  0000 L CNN
+F 2 "" V 6600 1550 50  0001 C CNN
+F 3 "" V 6600 1550 50  0001 C CNN
+	1    6600 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA226
+P 6600 1900
+F 0 "D?" H 6550 2025 50  0000 L CNN
+F 1 "LED_Small" V 6425 1800 50  0000 L CNN
+F 2 "" V 6600 1900 50  0001 C CNN
+F 3 "" V 6600 1900 50  0001 C CNN
+	1    6600 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA24A
+P 6600 2250
+F 0 "D?" H 6550 2375 50  0000 L CNN
+F 1 "LED_Small" V 6425 2150 50  0000 L CNN
+F 2 "" V 6600 2250 50  0001 C CNN
+F 3 "" V 6600 2250 50  0001 C CNN
+	1    6600 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA309
+P 7100 1550
+F 0 "D?" H 7050 1675 50  0000 L CNN
+F 1 "LED_Small" V 6925 1450 50  0000 L CNN
+F 2 "" V 7100 1550 50  0001 C CNN
+F 3 "" V 7100 1550 50  0001 C CNN
+	1    7100 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA30F
+P 7100 1900
+F 0 "D?" H 7050 2025 50  0000 L CNN
+F 1 "LED_Small" V 6925 1800 50  0000 L CNN
+F 2 "" V 7100 1900 50  0001 C CNN
+F 3 "" V 7100 1900 50  0001 C CNN
+	1    7100 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA315
+P 7100 2250
+F 0 "D?" H 7050 2375 50  0000 L CNN
+F 1 "LED_Small" V 6925 2150 50  0000 L CNN
+F 2 "" V 7100 2250 50  0001 C CNN
+F 3 "" V 7100 2250 50  0001 C CNN
+	1    7100 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA393
+P 7600 1550
+F 0 "D?" H 7550 1675 50  0000 L CNN
+F 1 "LED_Small" V 7425 1450 50  0000 L CNN
+F 2 "" V 7600 1550 50  0001 C CNN
+F 3 "" V 7600 1550 50  0001 C CNN
+	1    7600 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA399
+P 7600 1900
+F 0 "D?" H 7550 2025 50  0000 L CNN
+F 1 "LED_Small" V 7425 1800 50  0000 L CNN
+F 2 "" V 7600 1900 50  0001 C CNN
+F 3 "" V 7600 1900 50  0001 C CNN
+	1    7600 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED_Small D?
+U 1 1 597FA39F
+P 7600 2250
+F 0 "D?" H 7550 2375 50  0000 L CNN
+F 1 "LED_Small" V 7425 2150 50  0000 L CNN
+F 2 "" V 7600 2250 50  0001 C CNN
+F 3 "" V 7600 2250 50  0001 C CNN
+	1    7600 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R?
+U 1 1 597FA425
+P 6600 2800
+F 0 "R?" V 6680 2800 50  0000 C CNN
+F 1 "R" V 6600 2800 50  0000 C CNN
+F 2 "" V 6530 2800 50  0001 C CNN
+F 3 "" H 6600 2800 50  0001 C CNN
+	1    6600 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 597FA7AF
+P 7100 2800
+F 0 "R?" V 7180 2800 50  0000 C CNN
+F 1 "R" V 7100 2800 50  0000 C CNN
+F 2 "" V 7030 2800 50  0001 C CNN
+F 3 "" H 7100 2800 50  0001 C CNN
+	1    7100 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 597FA80B
+P 7600 2800
+F 0 "R?" V 7680 2800 50  0000 C CNN
+F 1 "R" V 7600 2800 50  0000 C CNN
+F 2 "" V 7530 2800 50  0001 C CNN
+F 3 "" H 7600 2800 50  0001 C CNN
+	1    7600 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 2650 6600 2350
+Wire Wire Line
+	6600 2150 6600 2000
+Wire Wire Line
+	6600 1800 6600 1650
+Wire Wire Line
+	7100 1650 7100 1800
+Wire Wire Line
+	7100 2000 7100 2150
+Wire Wire Line
+	7100 2350 7100 2650
+Wire Wire Line
+	7600 2650 7600 2350
+Wire Wire Line
+	7600 2150 7600 2000
+Wire Wire Line
+	7600 1800 7600 1650
+$Comp
+L LPC1110FD20 U?
+U 1 1 597FC746
+P 4250 2000
+F 0 "U?" H 2450 1000 60  0000 C CNN
+F 1 "LPC1110FD20" H 2700 2900 60  0000 C CNN
+F 2 "" H 4250 2000 60  0001 C CNN
+F 3 "" H 4250 2000 60  0001 C CNN
+	1    4250 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Battery_Cell BT?
+U 1 1 597FC7EF
+P 800 1500
+F 0 "BT?" H 900 1600 50  0000 L CNN
+F 1 "Battery_Cell" H 900 1500 50  0000 L CNN
+F 2 "" V 800 1560 50  0001 C CNN
+F 3 "" V 800 1560 50  0001 C CNN
+	1    800  1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C?
+U 1 1 597FC966
+P 2000 1400
+F 0 "C?" H 1800 1400 50  0000 L CNN
+F 1 "C" H 2100 1400 50  0000 L CNN
+F 2 "" H 2000 1400 50  0001 C CNN
+F 3 "" H 2000 1400 50  0001 C CNN
+	1    2000 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  1300 2200 1300
+Wire Wire Line
+	1900 1500 2200 1500
+Connection ~ 2000 1300
+$Comp
+L GND #PWR?
+U 1 1 597FCBDE
+P 800 1700
+F 0 "#PWR?" H 800 1450 50  0001 C CNN
+F 1 "GND" H 800 1550 50  0000 C CNN
+F 2 "" H 800 1700 50  0001 C CNN
+F 3 "" H 800 1700 50  0001 C CNN
+	1    800  1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  1600 800  1700
+Wire Wire Line
+	1900 1500 1900 1700
+Connection ~ 2000 1500
+$Comp
+L GND #PWR?
+U 1 1 597FCC7D
+P 1900 1700
+F 0 "#PWR?" H 1900 1450 50  0001 C CNN
+F 1 "GND" H 1900 1550 50  0000 C CNN
+F 2 "" H 1900 1700 50  0001 C CNN
+F 3 "" H 1900 1700 50  0001 C CNN
+	1    1900 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 2400 5700 2400
+Wire Wire Line
+	5700 2400 5700 1200
+Wire Wire Line
+	5700 1200 7600 1200
+Wire Wire Line
+	7600 1200 7600 1450
+Wire Wire Line
+	7100 1200 7100 1450
+Connection ~ 7100 1200
+Wire Wire Line
+	6600 1450 6600 1200
+Connection ~ 6600 1200
+Wire Wire Line
+	6600 2950 6600 3150
+Wire Wire Line
+	7100 2950 7100 3150
+Wire Wire Line
+	7600 2950 7600 3150
+$Comp
+L GND #PWR?
+U 1 1 597FD1A4
+P 6600 3150
+F 0 "#PWR?" H 6600 2900 50  0001 C CNN
+F 1 "GND" H 6600 3000 50  0000 C CNN
+F 2 "" H 6600 3150 50  0001 C CNN
+F 3 "" H 6600 3150 50  0001 C CNN
+	1    6600 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 597FD1D6
+P 7100 3150
+F 0 "#PWR?" H 7100 2900 50  0001 C CNN
+F 1 "GND" H 7100 3000 50  0000 C CNN
+F 2 "" H 7100 3150 50  0001 C CNN
+F 3 "" H 7100 3150 50  0001 C CNN
+	1    7100 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 597FD208
+P 7600 3150
+F 0 "#PWR?" H 7600 2900 50  0001 C CNN
+F 1 "GND" H 7600 3000 50  0000 C CNN
+F 2 "" H 7600 3150 50  0001 C CNN
+F 3 "" H 7600 3150 50  0001 C CNN
+	1    7600 3150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2200 2800
+NoConn ~ 2200 2600
+Wire Wire Line
+	4900 1300 5000 1300
+Wire Wire Line
+	5000 1300 5000 1000
+Wire Wire Line
+	5000 1000 1400 1000
+Wire Wire Line
+	1400 1000 1400 1300
+Connection ~ 1400 1300
+$EndSCHEMATC
