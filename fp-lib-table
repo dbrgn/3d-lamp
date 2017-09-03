@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name Capacitors_SMD)(type KiCad)(uri ${KIPRJMOD}/lib/Capacitors_SMD.pretty)(options "")(descr ""))
+  (lib (name Diodes_SMD)(type KiCad)(uri ${KIPRJMOD}/lib/Diodes_SMD.pretty)(options "")(descr ""))
+  (lib (name Housings_SOIC)(type KiCad)(uri ${KIPRJMOD}/lib/Housings_SOIC.pretty)(options "")(descr ""))
+  (lib (name Resistors_SMD)(type KiCad)(uri ${KIPRJMOD}/lib/Resistors_SMD.pretty)(options "")(descr ""))
+  (lib (name TO_SOT_Packages_SMD)(type KiCad)(uri ${KIPRJMOD}/lib/TO_SOT_Packages_SMD.pretty)(options "")(descr ""))
+  (lib (name Connectors_USB)(type KiCad)(uri ${KIPRJMOD}/lib/Connectors_USB.pretty)(options "")(descr ""))
+  (lib (name Socket_Strips)(type KiCad)(uri ${KIPRJMOD}/lib/Socket_Strips.pretty)(options "")(descr ""))
+  (lib (name Housings_DIP)(type KiCad)(uri ${KIPRJMOD}/lib/Housings_DIP.pretty)(options "")(descr ""))
+)

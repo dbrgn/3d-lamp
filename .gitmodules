@@ -1,0 +1,24 @@
+[submodule "lib/Resistors_SMD.pretty"]
+	path = lib/Resistors_SMD.pretty
+	url = https://github.com/KiCad/Resistors_SMD.pretty
+[submodule "lib/Diodes_SMD.pretty"]
+	path = lib/Diodes_SMD.pretty
+	url = https://github.com/KiCad/Diodes_SMD.pretty
+[submodule "lib/Capacitors_SMD.pretty"]
+	path = lib/Capacitors_SMD.pretty
+	url = https://github.com/KiCad/Capacitors_SMD.pretty
+[submodule "lib/TO_SOT_Packages_SMD.pretty"]
+	path = lib/TO_SOT_Packages_SMD.pretty
+	url = https://github.com/KiCad/TO_SOT_Packages_SMD.pretty
+[submodule "lib/Housings_SOIC.pretty"]
+	path = lib/Housings_SOIC.pretty
+	url = https://github.com/KiCad/Housings_SOIC.pretty
+[submodule "lib/Connectors_USB.pretty"]
+	path = lib/Connectors_USB.pretty
+	url = https://github.com/KiCad/Connectors_USB.pretty
+[submodule "lib/Socket_Strips.pretty"]
+	path = lib/Socket_Strips.pretty
+	url = https://github.com/KiCad/Socket_Strips.pretty
+[submodule "lib/Housings_DIP.pretty"]
+	path = lib/Housings_DIP.pretty
+	url = https://github.com/KiCad/Housings_DIP.pretty
