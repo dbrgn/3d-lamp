@@ -1,4 +1,4 @@
-update=mar 01 Aŭg 2017 16:12:15 +0200
+update=mer 30 Aŭg 2017 21:27:43 +0200
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=/home/danilo/Projects/3d-lamp/lib/usb
 LibName31=/home/danilo/Projects/3d-lamp/lib/battery_cell
 LibName32=/home/danilo/Projects/3d-lamp/lib/attiny85
+LibName33=switches
